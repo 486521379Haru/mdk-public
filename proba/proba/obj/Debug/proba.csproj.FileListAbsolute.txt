@@ -1,0 +1,24 @@
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\Проект. и Разраб. Web-приложений\Шишов Федоров\proba\proba\bin\Debug\proba.exe.config
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\Проект. и Разраб. Web-приложений\Шишов Федоров\proba\proba\bin\Debug\proba.exe
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\Проект. и Разраб. Web-приложений\Шишов Федоров\proba\proba\bin\Debug\proba.pdb
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\Проект. и Разраб. Web-приложений\Шишов Федоров\proba\proba\obj\Debug\proba.csproj.AssemblyReference.cache
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\Проект. и Разраб. Web-приложений\Шишов Федоров\proba\proba\obj\Debug\proba.csproj.SuggestedBindingRedirects.cache
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\Проект. и Разраб. Web-приложений\Шишов Федоров\proba\proba\obj\Debug\proba.Form1.resources
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\Проект. и Разраб. Web-приложений\Шишов Федоров\proba\proba\obj\Debug\proba.Properties.Resources.resources
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\Проект. и Разраб. Web-приложений\Шишов Федоров\proba\proba\obj\Debug\proba.csproj.GenerateResource.cache
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\Проект. и Разраб. Web-приложений\Шишов Федоров\proba\proba\obj\Debug\proba.csproj.CoreCompileInputs.cache
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\Проект. и Разраб. Web-приложений\Шишов Федоров\proba\proba\obj\Debug\proba.exe
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\Проект. и Разраб. Web-приложений\Шишов Федоров\proba\proba\obj\Debug\proba.pdb
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\Проект. и Разраб. Web-приложений\Шишов Федоров\proba\proba\obj\Debug\proba.Form2.resources
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\ФЕДОРОВ ШИШОВ\mdk-main\proba\proba\bin\Debug\proba.exe.config
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\ФЕДОРОВ ШИШОВ\mdk-main\proba\proba\bin\Debug\proba.exe
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\ФЕДОРОВ ШИШОВ\mdk-main\proba\proba\bin\Debug\proba.pdb
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\ФЕДОРОВ ШИШОВ\mdk-main\proba\proba\obj\Debug\proba.csproj.AssemblyReference.cache
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\ФЕДОРОВ ШИШОВ\mdk-main\proba\proba\obj\Debug\proba.csproj.SuggestedBindingRedirects.cache
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\ФЕДОРОВ ШИШОВ\mdk-main\proba\proba\obj\Debug\proba.Form1.resources
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\ФЕДОРОВ ШИШОВ\mdk-main\proba\proba\obj\Debug\proba.Form2.resources
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\ФЕДОРОВ ШИШОВ\mdk-main\proba\proba\obj\Debug\proba.Properties.Resources.resources
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\ФЕДОРОВ ШИШОВ\mdk-main\proba\proba\obj\Debug\proba.csproj.GenerateResource.cache
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\ФЕДОРОВ ШИШОВ\mdk-main\proba\proba\obj\Debug\proba.csproj.CoreCompileInputs.cache
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\ФЕДОРОВ ШИШОВ\mdk-main\proba\proba\obj\Debug\proba.exe
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\ФЕДОРОВ ШИШОВ\mdk-main\proba\proba\obj\Debug\proba.pdb
